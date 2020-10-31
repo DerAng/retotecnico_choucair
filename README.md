@@ -3,13 +3,13 @@
 1. Abrir CMD
 2. Clonar el proyecto con el comando:  
 ```
-  git clone  https://github.com/DerAng/proyectobase_choucair.git
+  git clone  https://github.com/DerAng/https://github.com/DerAng/retotecnico_choucair.git.git
 ```
 ![Abrir CMD](https://github.com/DerAng/retotecnico_choucair/blob/master/images/GITCLONE.png?raw=true)
 
 3. Ingresar en la consola cd + la ruta del proyecto:  
 ```
-  cd C:\Users\derly\proyectobase_choucair
+  cd retotecnico_choucair
 ```
 ![Ingresar ruta del proyecto](https://github.com/DerAng/retotecnico_choucair/blob/master/images/CD.png?raw=true)
 
