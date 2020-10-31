@@ -8,17 +8,8 @@ public class User {
     private String dateOfBirth;
     private String city;
     private String postalCode;
-    private String country;
-    private String computer;
-    private String version;
-    private String languague;
-    private String mobile;
-    private String model;
-    private String operatingSystem;
     private String password;
     private String confirmPassword;
-    private String passwordGmail;
-
 
     public String getFirstName() {
         return firstName;
@@ -68,62 +59,6 @@ public class User {
         this.postalCode = postalCode;
     }
 
-    public String getCountry() {
-        return country;
-    }
-
-    public void setCountry(String country) {
-        this.country = country;
-    }
-
-    public String getComputer() {
-        return computer;
-    }
-
-    public void setComputer(String computer) {
-        this.computer = computer;
-    }
-
-    public String getVersion() {
-        return version;
-    }
-
-    public void setVersion(String version) {
-        this.version = version;
-    }
-
-    public String getLanguague() {
-        return languague;
-    }
-
-    public void setLanguague(String languague) {
-        this.languague = languague;
-    }
-
-    public String getMobile() {
-        return mobile;
-    }
-
-    public void setMobile(String mobile) {
-        this.mobile = mobile;
-    }
-
-    public String getModel() {
-        return model;
-    }
-
-    public void setModel(String model) {
-        this.model = model;
-    }
-
-    public String getOperatingSystem() {
-        return operatingSystem;
-    }
-
-    public void setOperatingSystem(String operatingSystem) {
-        this.operatingSystem = operatingSystem;
-    }
-
     public String getPassword() {
         return password;
     }
@@ -135,16 +70,8 @@ public class User {
     public String getConfirmPassword() {
         return confirmPassword;
     }
-
     public void setConfirmPassword(String confirmPassword) {
         this.confirmPassword = confirmPassword;
     }
 
-    public String getPasswordGmail() {
-        return passwordGmail;
-    }
-
-    public void setPasswordGmail(String passwordGmail) {
-        this.passwordGmail = passwordGmail;
-    }
 }

@@ -5,7 +5,7 @@ import net.serenitybdd.screenplay.Actor;
 import net.serenitybdd.screenplay.Task;
 import net.serenitybdd.screenplay.Tasks;
 import net.serenitybdd.screenplay.actions.Open;
-import org.openqa.selenium.chrome.ChromeOptions;
+
 
 public class OpenUp implements Task {
     private UtestOpenUpPage utestPage;

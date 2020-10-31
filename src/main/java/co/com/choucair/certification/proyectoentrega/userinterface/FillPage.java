@@ -21,12 +21,14 @@ public class FillPage extends PageObject {
     public static final Target SELECT_DATE_OF_BIRTH_MONTH = Target.the("List to select the month")
             .located(By.id("birthMonth"));
 
-
     public static final Target SELECT_DATE_OF_BIRTH_YEAR = Target.the("List to select the year")
             .located(By.id("birthYear"));
 
     public static final Target BUTTON_NEXT_LOCATION = Target.the("Button Next")
             .located(By.xpath("//a[contains(@class,'btn btn-blue')]"));
+
+    public static final Target CITY_SPAN = Target.the("Wait in City")
+            .located(By.xpath("//span[contains(@ng-show,'autoDetectAddress.city')]"));
 
     public static final Target CITY = Target.the("City field")
             .located(By.name("city"));
@@ -40,11 +42,8 @@ public class FillPage extends PageObject {
     public static final Target BUTTON_NEXT_DEVICES = Target.the("Button Next")
             .located(By.xpath("//a[contains(@class,'btn btn-blue pull-right')]/span"));
 
-
-
     public static final Target BUTTON_LAST_STEP = Target.the("Button Next")
             .located(By.xpath("//a[contains(@class,'btn btn-blue pull-right')]/span"));
-
 
     public static final Target PASSWORD = Target.the("Password field")
             .located(By.id("password"));

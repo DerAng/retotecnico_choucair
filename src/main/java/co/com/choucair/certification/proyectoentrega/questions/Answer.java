@@ -1,6 +1,6 @@
 package co.com.choucair.certification.proyectoentrega.questions;
 
-import co.com.choucair.certification.proyectoentrega.tasks.SearchMessagePage;
+import co.com.choucair.certification.proyectoentrega.userinterface.SearchMessagePage;
 import net.serenitybdd.screenplay.Actor;
 import net.serenitybdd.screenplay.Question;
 import net.serenitybdd.screenplay.questions.Text;
