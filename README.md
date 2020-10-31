@@ -25,7 +25,7 @@ gradlew clean  build --refresh-dependencies
  
  En el siguiente video se observa la ejecucion de los Features
 
-[![Video](https://github.com/DerAng/retotecnico_choucair/blob/master/images/VIDEO.png?raw=true)](https://www.youtube.com/watch?v=FAAyVarL820&ab_channel=DerlyZuleyAngelMedina)
+[![Video](https://github.com/DerAng/retotecnico_choucair/blob/master/images/VIDEO.png?raw=true)](https://www.youtube.com/watch?v=NiKHo0AvrhE&ab_channel=PrinceDisco)
 
 
 # Autor
